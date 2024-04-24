@@ -4,8 +4,6 @@
 
 Skills: Machine Learning/Computer Vision/Assembly/Python
 
-- 🔭 I’m currently working on this page. 
-
 
 
 
